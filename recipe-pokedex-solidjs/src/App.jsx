@@ -7,15 +7,16 @@ function App() {
       <header class={styles.header}>
         <img src={logo} class={styles.logo} alt="logo" />
         <p>
-          Edit <code>src/App.jsx</code> and save to reload.
+          Pokedex Recipe
+
         </p>
         <a
           class={styles.link}
-          href="https://github.com/solidjs/solid"
+          href="https://github.com/arunabhdas/recipebook/tree/main/recipe-pokedex-solidjs"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Solid
+          Pokedex SolidJS Recipe
         </a>
       </header>
     </div>

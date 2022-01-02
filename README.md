@@ -7,6 +7,6 @@ Collection of recipes for fun and profit
 ### Steps 
 
 ~~~
-npx degit solidjs/templates/js
+npx degit solidjs/templates/js recipe-pokedex-solidjs
 
 ~~~
