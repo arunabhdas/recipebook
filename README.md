@@ -1,6 +1,6 @@
 # RecipeBook
 
-Collection of recipes for fun and profit
+Collection of isomorphic recipes for fun and profit
 
 ### Recipe 1 - Create a Pokedex using SolidJS
 
